@@ -55,8 +55,6 @@ Esta combinación me permite conectar el desarrollo de software con la gestión 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloslaime&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
-> **Importante:** Reemplaza `tu-usuario` por tu usuario real de GitHub.
-
 ---
 
 ## 📫 Contacto
