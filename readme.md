@@ -33,7 +33,7 @@ Esta combinación me permite conectar el desarrollo de software con la gestión 
 
 ---
 
-## 🚀 Tecnologías que uso frecuentemente (Badges)
+## 🚀 Tecnologías que uso frecuentemente
 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![NextJS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
@@ -51,8 +51,8 @@ Esta combinación me permite conectar el desarrollo de software con la gestión 
 ## 📊 Estadísticas de GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?carloslaime&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?carloslaime&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloslaime&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloslaime&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
 > **Importante:** Reemplaza `tu-usuario` por tu usuario real de GitHub.
