@@ -13,38 +13,22 @@ Esta combinación me permite conectar el desarrollo de software con la gestión 
 
 ## 🧰 Stack Tecnológico
 
-**Frontend**
-- React • Next.js • React Native (Expo)  
-- TypeScript • JavaScript  
-- TailwindCSS • Bootstrap  
-- HTML5 • CSS3  
-- Vue.js  
-
-**Backend**
-- Node.js • NestJS  
-- Django • Python  
-- TRPC • Prisma  
-- Spring Boot  
-
-**Datos**
-- ETL con Python  
-- SQL avanzado • Optimización de consultas  
-- Modelado y gestión de bases de datos
-
----
-
-## 🚀 Tecnologías que uso frecuentemente
-
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
-![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
-![Spring](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot)
-![Vue](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ---
 
