@@ -1,6 +1,6 @@
 # 👋 Hola, soy Carlos Laime
 
-### 💻 Ingeniero de Sistemas | Full Stack Developer | Data & Web Engineering
+### 💻 Ingeniero de Sistemas | Full Stack Developer | Data Engineering
 
 Soy ingeniero de sistemas con 2 años de experiencia en desarrollo web Full Stack, trabajando en proyectos para los sectores industrial y hotelero.
 
